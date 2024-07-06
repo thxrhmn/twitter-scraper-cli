@@ -1,0 +1,2 @@
+python-dotenv
+twikit==1.7.5
